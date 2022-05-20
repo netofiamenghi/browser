@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/08/12 09:18:33.000.892,=C:\Users\Neto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013/08/12 09:19:21.000.364,C:\Users\Neto\Google Drive\ETEC\COMPONENTES\PROGRAMAÇÃO DE COMPUTADORES I\Browser\untPrincipal.dfm=C:\Users\Neto\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2013/08/12 09:19:21.000.364,C:\Users\Neto\Google Drive\ETEC\COMPONENTES\PROGRAMAÇÃO DE COMPUTADORES I\Browser\untPrincipal.pas=C:\Users\Neto\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013/08/12 09:19:27.000.109,C:\Users\Neto\Google Drive\ETEC\COMPONENTES\PROGRAMAÇÃO DE COMPUTADORES I\Browser\Browser.dproj=C:\Users\Neto\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
